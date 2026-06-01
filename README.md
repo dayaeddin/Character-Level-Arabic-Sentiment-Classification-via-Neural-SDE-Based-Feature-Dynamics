@@ -9,3 +9,19 @@ https://www.kaggle.com/datasets/abdallaellaithy/330k-arabic-sentiment-reviews
 The main CSV file is about 67 MB and contains 330K Arabic product reviews labeled for sentiment (e.g., positive, negative). Please download the dataset from Kaggle and place it under the `data/` directory:
 
 `data/330k-arabic-sentiment-reviews.csv`
+
+<p align="center">
+  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="500" />
+</p>
+
+<p align="center">
+  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="500" />
+</p>
+
+<p align="center">
+  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="500" />
+</p>
+
+<p align="center">
+  <img src="Artificial Intelligence Ai GIF by The Explainer Studio (1).gif" alt="Research Animation" width="500" />
+</p>

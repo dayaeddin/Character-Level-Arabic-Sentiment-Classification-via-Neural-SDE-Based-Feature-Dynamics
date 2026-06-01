@@ -15,13 +15,13 @@ The main CSV file is about 67 MB and contains 330K Arabic product reviews labele
 </p>
 
 <p align="center">
-  <img src="confusion_matrix_sde" alt="Research Animation" width="500" />
+  <img src="confusion_matrix_sde.png" alt="Research Animation" width="500" />
 </p>
 
 <p align="center">
-  <img src="pr_curve_sde" alt="Research Animation" width="500" />
+  <img src="pr_curve_sde.png" alt="Research Animation" width="500" />
 </p>
 
 <p align="center">
-  <img src="roc_curve_sde" alt="Research Animation" width="500" />
+  <img src="roc_curve_sde.png" alt="Research Animation" width="500" />
 </p>
